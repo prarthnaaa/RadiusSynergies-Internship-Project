@@ -3,7 +3,7 @@
 This project was developed during a **1-month internship at Radius Synergies**. It processes electrical meter data to detect anomalies such as power outages, voltage fluctuations, surge currents, and power factor inconsistencies. The script also cleans and visualizes the data.
 
 📈 **Analyzed 260,452 entries of electrical grid data with 7.9 seconds average runtime**  
-📄 [Internship Report](https://www.canva.com/design/DAGH_sKZJQs/k-7aoyrqc8QYSULhxln8gA/view?utm_content=DAGH_sKZJQs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha469c26268)
+📄 [Internship Report]([https://www.canva.com/design/DAGH_sKZJQs/k-7aoyrqc8QYSULhxln8gA/view?utm_content=DAGH_sKZJQs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha469c26268](https://www.canva.com/design/DAGH_sKZJQs/k-7aoyrqc8QYSULhxln8gA/view?utm_content=DAGH_sKZJQs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha469c26268))
 
 ## Features
 
